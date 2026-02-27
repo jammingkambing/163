@@ -1,1 +1,5 @@
-cout << "meow";
+#include <iostream>
+
+int main(){
+    std::cout << "meow";
+}
